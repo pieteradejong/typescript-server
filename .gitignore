@@ -1,4 +1,5 @@
 # Custom
+build/
 src/**/*.js
 db.json
 # End of Custom
